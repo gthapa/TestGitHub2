@@ -1,3 +1,4 @@
 Writing using vim - first time
 commited
 
+test 2- new line added
